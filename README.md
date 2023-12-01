@@ -1,5 +1,5 @@
-Introduction
-
+**Introduction
+**
 This is part of MSDS program at University of Colorado Boulder. This is part of the Introduction to Deep Learning course. 
 
 We recognize the works of artists through their unique style, such as color choices or brush strokes. The “je ne sais quoi” of artists like Claude Monet can now be imitated with algorithms thanks to generative adversarial networks (GANs). In this getting started competition, you will bring that style to your photos or recreate the style from scratch!
@@ -11,8 +11,8 @@ The Challenge: A GAN consists of at least two neural networks: a generator model
 The two models will work against each other, with the generator trying to trick the discriminator, and the discriminator trying to accurately classify the real vs. generated images.
 
 Our task is to build a GAN that generates 7,000 to 10,000 Monet-style images.
-
-Data:
+**
+Data:**
 
 We are provided with monet paintings both in JPG and TFRecords format as our training data.
 
